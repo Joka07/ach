@@ -35,7 +35,7 @@ sudo -u postgres psql -c "ALTER USER achievementapp WITH SUPERUSER;"
 
 # Clone the application (assuming you have a git repository)
 echo "Cloning the application..."
-git clone https://github.com/yourusername/achievement-tracker.git
+git clone https://github.com/Joka07/ach.git
 cd achievement-tracker
 
 # Install dependencies
