@@ -12,17 +12,17 @@ This repository contains a deployment script for setting up the Achievement Trac
 
 1. Download the deployment script:
 ```bash
-wget https://raw.githubusercontent.com/yourusername/achievement-tracker/main/deploy.sh
+wget https://github.com/Joka07/deploy/deploy_achievement.sh
 ```
 
 2. Make the script executable:
 ```bash
-chmod +x deploy.sh
+chmod +x deploy_achievement.sh
 ```
 
 3. Run the deployment script:
 ```bash
-./deploy.sh
+./deploy_achievement.sh
 ```
 
 ## What the Script Does
